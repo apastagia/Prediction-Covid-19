@@ -5,6 +5,7 @@ Both Jupyter notebook has different Predictions and Analysis.
 
 Dataset for Jupyter Notebook 1:
 Dataset link: https://github.com/owid/covid-19-data/tree/master/public/data
+Working on this LR model
 
 Dataset info available above link.
 
@@ -13,3 +14,8 @@ Dataset for Predictions and Analysis Juypiter Notebook(Prediction_Covid-19-2): h
 
 Prediction Image
                 ![Prediction](https://user-images.githubusercontent.com/62986688/114299286-0c01f380-9ad8-11eb-886c-eb7f35bcc806.png)
+
+
+
+Linear Regression
+SVM 
